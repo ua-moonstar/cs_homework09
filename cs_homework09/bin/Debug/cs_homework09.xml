@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cs_homework09</name>
+    </assembly>
+    <members>
+        <member name="T:cs_homework09.Program">
+            <summary>
+            Main programm class
+            </summary>
+        </member>
+        <member name="M:cs_homework09.Program.CarsPriceMore10k(System.Collections.Generic.List{cs_homework09.Car})">
+            <summary>
+            Return cars with price more than 10K
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <returns>Returns List(Car)</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsRed(System.Collections.Generic.List{cs_homework09.Car})">
+            <summary>
+            Return cars with red color
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <returns>Returns List(Car)</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsPriceMark(System.Collections.Generic.List{cs_homework09.Car},System.ValueTuple{System.Decimal,System.String})">
+            <summary>
+            Return cars by price and mark
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <param name="filter">
+            tuple (decimal price, string mark)
+            </param>
+            <returns>Returns List(Car)</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsTotalSum(System.Collections.Generic.List{cs_homework09.Car})">
+            <summary>
+            Return red cars quantity
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <returns>Returns int</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsRedQty(System.Collections.Generic.List{cs_homework09.Car})">
+            <summary>
+            Return cars total sum
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <returns>Returns decimal</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsCheap(System.Collections.Generic.List{cs_homework09.Car})">
+            <summary>
+            Return cheapest cars
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <returns>Returns List(Car)</returns>
+        </member>
+        <member name="M:cs_homework09.Program.CarsPriceRange(System.Collections.Generic.List{cs_homework09.Car},System.ValueTuple{System.Decimal,System.Decimal})">
+            <summary>
+            Return cars by price range
+            </summary>
+            <param name="cars">
+            Car collection List(Cars)
+            </param>
+            <param name="filter"> tuple (decimal price from, decimal price to) </param>
+            <returns> Returns tuple (List(Car), int CountRed, int CountBlack) </returns>
+        </member>
+    </members>
+</doc>

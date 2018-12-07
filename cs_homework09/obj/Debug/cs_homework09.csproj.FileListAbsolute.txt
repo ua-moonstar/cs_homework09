@@ -1,0 +1,11 @@
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\cs_homework09.exe.config
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\cs_homework09.exe
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\cs_homework09.pdb
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\System.ValueTuple.dll
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\System.ValueTuple.xml
+D:\Learning\cs_homework09\cs_homework09\obj\Debug\cs_homework09.csprojAssemblyReference.cache
+D:\Learning\cs_homework09\cs_homework09\obj\Debug\cs_homework09.csproj.CoreCompileInputs.cache
+D:\Learning\cs_homework09\cs_homework09\obj\Debug\cs_homework09.csproj.CopyComplete
+D:\Learning\cs_homework09\cs_homework09\obj\Debug\cs_homework09.exe
+D:\Learning\cs_homework09\cs_homework09\obj\Debug\cs_homework09.pdb
+D:\Learning\cs_homework09\cs_homework09\bin\Debug\cs_homework09.xml
