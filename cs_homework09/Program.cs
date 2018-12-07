@@ -93,10 +93,8 @@ namespace cs_homework09
         /// </param>
         /// <returns>Returns List(Car)</returns>
         public static List<Car> CarsPriceMark(List<Car> cars , (decimal price, string mark) filter)
-        {
-            return cars.Where(c => c.Price == filter.price).Where(c => c.Mark == filter.mark).ToList();
-        }
-
+            => cars.Where(c => c.Price == filter.price).Where(c => c.Mark == filter.mark).ToList();
+        
         /// <summary>
         /// Return red cars quantity
         /// </summary>
